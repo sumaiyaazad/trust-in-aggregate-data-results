@@ -36,7 +36,7 @@ The pilot exists to find problems in the study interface, not to preview the res
 - [ ] Nothing on screen reveals which cases were manipulated
 
 **Facilitation**
-- [ ] Facilitator can take useful notes and stay quiet at the same time
+- [ ] I can take useful notes and stay quiet at the same time
 - [ ] No accidental leading, confirming, or reacting. Review the recording for this
 - [ ] Session JSON downloads and contains everything expected
 
@@ -54,7 +54,7 @@ The changes are recorded at the end of this file.
 
 > **If a change alters what participants see or how decisions are scored**, case
 > content, decision wording, the answer key, note it explicitly in the report, since
-> the design was otherwise frozen before data collection. Changes to the facilitator's
+> the design was otherwise frozen before data collection. Changes to my
 > phrasing, timing, or note-taking do not require this.
 
 ## Pilot 1, 13 October 2026: what it found and what changed
@@ -72,7 +72,7 @@ to be restarted.
 | The task itself was unclear | "Tell me, what am I supposed to check?"; "I'm judging the correction right?" | Each case now leads with the draft sentence in quotes, and the decision asks "Should this sentence go into the draft?" |
 | The query panel was never used | no mention in 54 minutes | Removed; replaced by "Computed from the 38 trips below" |
 | Too many questions | 11 background, 13 closing; session 54 min | 4 background, 6 closing |
-| Facilitator explained and led during scored tasks | "So the system is detecting that those three highlighted rows may have some problems"; "You said yourself that those two rows are wrong, right?" | Session script: no explaining any panel during scored tasks; the tour is the only place the screen is explained. Reply to "what is this?" is "whatever it means to you" |
+| I explained and led during scored tasks | "So the system is detecting that those three highlighted rows may have some problems"; "You said yourself that those two rows are wrong, right?" | Session script: no explaining any panel during scored tasks; the tour is the only place the screen is explained. Reply to "what is this?" is "whatever it means to you" |
 | 38-row tables were more than one screen could show, and more than the participant could scan | "There were too many data points for me to look at"; "it's a lot of data to look at" | Cell-size band tightened from 20–60 to 20–24 trips and all four scored cases regenerated (T0 unchanged). Every case now fits on one screen. Side effect: the 0.6% duplicate is gone; both pairs are matched on effect size |
 | Zoom basic account cuts the meeting at 40 minutes | "I'm seeing that I'm given a time left in this zoom meeting" | Session shortened to fit; run sheet says to start a new meeting at once if it cuts; the transcriber stitches the two recordings |
 
