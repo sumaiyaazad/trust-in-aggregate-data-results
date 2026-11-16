@@ -37,7 +37,7 @@ The pilot is intended to identify problems in the study interface, not to previe
 
 **Facilitation**
 - [ ] I can take useful notes and stay quiet at the same time
-- [ ] No accidental leading, confirming, or reacting; Review the recording for this
+- [ ] No accidental leading, confirming, or reacting; review the recording for this
 - [ ] Session JSON downloads and contains everything expected
 
 **Materials**
