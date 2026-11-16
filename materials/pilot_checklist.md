@@ -1,9 +1,9 @@
 # Pilot checklist
 
-Run **one or two pilot sessions** before the first real participant. Pilot participants
-are not counted among the six and their data is not analyzed.
+Run a pilot session before the first real participant. Pilot participant
+is not counted among the six, and their data is not analyzed.
 
-The pilot exists to find problems in the study interface, not to preview the results.
+The pilot is intended to identify problems in the study interface, not to preview the results.
 
 ## What the pilot must confirm
 
@@ -14,8 +14,8 @@ The pilot exists to find problems in the study interface, not to preview the res
 
 **Comprehension**
 - [ ] Participant understands what one "result" covers, one zone, one hour, one date
-- [ ] All four decision options are distinguishable. **Watch "not yet, something needs
-      checking" against "fix a specific problem" especially.** That pair carries the
+- [ ] All four decision options are distinguishable. Watch "not yet, something needs
+      checking" against "fix a specific problem" especially. That pair carries the
       over-cleaning measure: a participant who cannot tell them apart may pick "fix"
       because it sounds more decisive, and be recorded as over-cleaning when they were
       misreading the menu. If a pilot participant cannot articulate the difference,
@@ -30,14 +30,14 @@ The pilot exists to find problems in the study interface, not to preview the res
 **Interface**
 - [ ] Sorting and filtering work under real use
 - [ ] The interface-switch notice is noticed and understood
-- [ ] The sensitivity preview is not read as "the right answer" *by design*, if the
+- [ ] The sensitivity preview is not read as "the right answer" by design; if the
       pilot participant reads it that way, that is a finding, but check the wording is
       not causing it
 - [ ] Nothing on screen reveals which cases were manipulated
 
 **Facilitation**
 - [ ] I can take useful notes and stay quiet at the same time
-- [ ] No accidental leading, confirming, or reacting. Review the recording for this
+- [ ] No accidental leading, confirming, or reacting; Review the recording for this
 - [ ] Session JSON downloads and contains everything expected
 
 **Materials**
