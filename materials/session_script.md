@@ -16,4 +16,4 @@ The following script records the session procedure and my wording. Recordings we
 | Closing questions | They read and type on screen. | “That's the cases done. The last part is six short questions on the screen. Just type your answers.” |
 | Debrief | Read aloud from the screen.  | The debrief text on the Questions tab. |
 | Download | They click Download session file and send it through the chat. | “Could you send me the file that downloads through the Zoom chat?” |
-| Same day | Move the recording to the participant's folder, transcribe it, write half a page of note. |  |
+| Same day | Move the recording to the participant's folder. |  |
